@@ -7,7 +7,7 @@ package studentdetailsprint;
 
 /**
  * create object of student, store object in array,print the student details
- * @author rana
+ * @author rana ibrahim
  * date: june 2nd
  */
 public class StudentDetailsPrint {
